@@ -3,9 +3,18 @@ body {
   margin: 2em;
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
+h2 {
+  color: black;
+  transform: rotate(3deg);
+  background: #cef1f2;
+  border-radius: 30%;
+}
+
+h4 {
+  transform: rotate(358deg);
+  background: aliceblue;
+  display: inline-block;
+  border-radius: 30%;
 }
 
 p {
